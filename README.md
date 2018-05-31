@@ -1,6 +1,6 @@
 # hello world!
 
-I love gamming and this is my first online game.
+I love gaming and this is my first online game.
 
 You can play here:
 https://codepen.io/otivam/full/zjgYVL/
